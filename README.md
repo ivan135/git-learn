@@ -1,4 +1,2 @@
 # git-learn
 
-## add2
-
